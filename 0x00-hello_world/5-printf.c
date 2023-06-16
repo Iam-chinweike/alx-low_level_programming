@@ -1,17 +1,19 @@
 #include <stdio.h>
 
 /**
- * main - prints out output with the printf function.
- * Return: 0.
+ * main- prints out output with the printf function.
+ * Return: 0
  */
 
 int main(void)
 {
 
-char quot1[] = "with proper grammar, but the outcome is a piece of art,";
+char quot1;
+
+quot1 = "with proper grammar, but the outcome is a piece of art,";
 
 printf("%s\n", quot1);
 
-retun(0);
+retun (0);
 
 }
