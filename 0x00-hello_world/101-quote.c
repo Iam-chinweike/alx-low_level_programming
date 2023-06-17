@@ -7,9 +7,9 @@
 
 int main(void)
 {
-int a;
+char a;
 a = "and that piece of art is useful\" - Dora Korpar, 2015-10-19";
 
-putchar(int a);
+putchar(char a);
 return (1);
 }
