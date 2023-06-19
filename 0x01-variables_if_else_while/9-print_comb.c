@@ -7,7 +7,7 @@ int main(void)
 {
 int deo;
 
-for (deo= 0; deo < 10; x++)
+for (deo= 0; deo < 10; deo++)
 {
 putchar(deo + '0');
 if (deo < 9)
