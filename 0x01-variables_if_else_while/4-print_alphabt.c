@@ -9,9 +9,7 @@ char sheet;
 for (sheet = 'a'; sheet <= 'z'; sheet++)
 {
 if (sheet != 'j' && sheet != 'e')
-{
 putchar(sheet);
-}
 }
 putchar('\n');
 return (0);
