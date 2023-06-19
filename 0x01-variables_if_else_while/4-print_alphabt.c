@@ -12,7 +12,7 @@ if (sheet != 'j' && sheet != 'e')
 {
 putchar(sheet);
 }
-putchar('\n');
 }
+putchar('\n');
 return (0);
 }
