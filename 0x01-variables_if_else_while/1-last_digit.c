@@ -23,6 +23,8 @@ else if (n < 6 && n != 0)
 printf("%d and is less than 6 and not 0\n", last_digit);
 }
 else
+{
 printf("%d and is 0\n", last_digit);
+}
 return (0);
 }
