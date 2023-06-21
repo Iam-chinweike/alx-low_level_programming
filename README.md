@@ -3,4 +3,5 @@
 > > Here's our Menu:delicious:
 > * hello world
 > * variablesif else while
+> * functions nested loops
 > * more to come.
