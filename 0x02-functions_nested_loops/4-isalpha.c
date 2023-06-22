@@ -2,7 +2,7 @@
 
 /**
  *_isalpha- prints the alphabets once the set criteria is met
- *@c - variable to be checked
+ *@c:- variable to be checked
  *Return: 1 or 0 depending on the output
  */
 int _isalpha(int c)
