@@ -4,4 +4,5 @@
 > * hello world
 > * variablesif else while
 > * functions nested loops
+> * debugging
 > * more to come.
