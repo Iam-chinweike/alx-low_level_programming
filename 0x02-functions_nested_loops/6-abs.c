@@ -1,16 +1,19 @@
 #include "main.h"
 /**
  *_abs - prints the absolute value
- *@int: is the type of the argument
+ *@d: is the type of the argument
  *Return: the absolute value
  */
-int _abs(int)
+int _abs(int d)
 {
+int d, abval;
 if (d < 0)
 {
-int abval;
 abval = d * -1;
-return (abval);
+}
+else if (d >= 0)
+{
+abval = d;
 }
 return (d);
 }
