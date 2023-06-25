@@ -6,14 +6,14 @@
  */
 int _abs(int d)
 {
-int abval;
 if (d < 0)
 {
+int abval;
 abval = d * -1;
 }
 else if (d >= 0)
 {
 abval = d;
 }
-return (d);
+return (abval);
 }
