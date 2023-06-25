@@ -14,5 +14,4 @@ else if (d >= 0)
 {
 return (d);
 }
-return (abval);
 }
