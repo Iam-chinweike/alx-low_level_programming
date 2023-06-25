@@ -6,7 +6,7 @@
  */
 int _abs(int d)
 {
-int d, abval;
+int abval;
 if (d < 0)
 {
 abval = d * -1;
