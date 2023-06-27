@@ -8,7 +8,9 @@
  */
 void swap_int(int *a, int *b)
 {
+int kemz;
 
-*a = 42;
-*b = 98;
+kemz = a;
+a = b;
+b = kemz;
 }
