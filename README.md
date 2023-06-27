@@ -5,4 +5,5 @@
 > * variablesif else while
 > * functions nested loops
 > * debugging
+> * Pointers, arrays and strings
 > * more to come.
