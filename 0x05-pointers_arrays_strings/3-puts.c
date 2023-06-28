@@ -2,15 +2,16 @@
 
 /**
  * _puts - prints strings to the stdout
- * @str: is the variable used
+ * @str: is the variable useid
  * Returns: nothing on success
  */
 
 void _puts(char *str)
 {
-for (; *str != '\0'; *str++)
+while (*str != '\0')
 {
 _putchar(*str);
+str++;
 }
 _putchar('\n');
 }
