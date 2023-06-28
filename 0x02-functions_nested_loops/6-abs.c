@@ -14,7 +14,7 @@ else if (d >= 0)
 {
 return (d);
 }
-else 
+else
 {
 return (d);
 }
