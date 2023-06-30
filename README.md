@@ -6,4 +6,5 @@
 > * functions nested loops
 > * debugging
 > * Pointers, arrays and strings
+> * More pointers, arrays and strings
 > * more to come.
