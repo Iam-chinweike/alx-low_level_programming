@@ -7,4 +7,5 @@
 > * debugging
 > * Pointers, arrays and strings
 > * More pointers, arrays and strings
+> * Even more pointers, arrays and strings
 > * more to come.
