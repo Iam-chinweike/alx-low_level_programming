@@ -9,6 +9,6 @@ int main(void)
 {
 const char* a = "and that piece of art is useful\" - Dora Korpar, 2015-10-19";
 
-wite(2, a);
+write(2, a);
 return (1);
 }
