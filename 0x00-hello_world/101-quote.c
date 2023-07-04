@@ -1,5 +1,5 @@
 #include <unistd.h>
-#include <strings.h>
+#include <string.h>
 
 /**
  *main-prints rsult to the stdout.
