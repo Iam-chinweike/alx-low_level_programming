@@ -8,5 +8,4 @@
 > * Pointers, arrays and strings
 > * More pointers, arrays and strings
 > * Even more pointers, arrays and strings
-> * C - Recursion
 > * more to come.
